@@ -184,3 +184,7 @@ margin-top: 50px;
 img {
     border-radius: 10px;
 }
+
+.box1 img, .box2 img, .box3 img, .box4 img {
+    border: 5px solid #3882f6;
+}
